@@ -1,0 +1,17 @@
+{
+  "mongoURI": "mongodb+srv://user1:56OkOnKr3I2ojvRY@cluster0.kro1gxc.mongodb.net/matrimonial?retryWrites=true&w=majority",
+  "jwtSecret": "secret_tech_sierra",
+  "MAILGUN_APIKEY": "ec1b45c81d301e8d15ca687ff8d429e2-1831c31e-215b1e0b",
+  "frontend_url": {
+    "development": "https://stunning-dolphin-165038.netlify.app",
+    "production": "https://stunning-dolphin-165038.netlify.app"
+  },
+  "nodemailer": {
+    "username": "anandpothraj11052001@gmail.com",
+    "password": "eiegizleowbnffzb"
+  },
+  "fast2sms_key": "flgI3bKFwrtohnVBTxE0NLHDia2ZRAs9YUQpWucGeS58POC4vJtc6jBURMCXYoIKi1DvpfrsLmxnF97g",
+  "fast2sms_base_url" : "https://www.fast2sms.com/dev/bulkV2",
+  "otpExpiryTimeInMinutes": 2,
+  "contactUsEmailId": "ajayverma81503@gmail.com"
+}
